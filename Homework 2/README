@@ -1,0 +1,17 @@
+# Homework 2 - Model Interpretability with Anchors, SHAP, LIME, and Counterfactuals
+
+This assignment uses the `loan_dataset.xlsx` dataset to explain and interpret loan approval decisions.
+
+## Objectives
+- Work with loan applicant financial and demographic data
+- Select one approved and one denied loan application
+- Generate Anchors explanations for both instances
+- Create SHAP explanations for the same instances
+- Create LIME explanations for the same instances
+- Select two denied loan applications
+- Generate counterfactual explanations for both denied cases
+- Compare multiple explainability methods for model decisions
+
+## Files
+- Jupyter Notebook containing the explainability analysis
+- `loan_dataset.xlsx`
