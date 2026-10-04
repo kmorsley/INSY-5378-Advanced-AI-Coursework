@@ -1,0 +1,21 @@
+# Homework 1 - Cardiovascular Disease Classification
+
+This assignment uses the `cardio_train.csv` dataset to predict the presence or absence of cardiovascular disease.
+
+## Objectives
+- Preprocess the cardiovascular disease dataset
+- Split the data into 70% training and 30% testing sets
+- Train and compare:
+  - Logistic Regression
+  - Random Forest Classifier
+  - Decision Tree Classifier
+- Standardize the data for Logistic Regression
+- Identify the best-performing model
+- Report and visualize the most important features
+- Display the confusion matrix for the best-performing model
+- Determine the optimal depth for the Decision Tree Classifier
+- Evaluate whether tuning the tree depth improves performance
+
+## Files
+- Jupyter Notebook containing the analysis and model evaluation
+- `cardio_train.csv` dataset
