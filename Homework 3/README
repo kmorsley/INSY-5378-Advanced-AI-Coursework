@@ -1,0 +1,18 @@
+# Homework 3 - AI Fairness and Bias Detection
+
+This assignment uses the `loan_dataset.xlsx` dataset to evaluate fairness in loan approval outcomes across protected demographic groups.
+
+## Objectives
+- Analyze loan approval outcomes across protected demographic groups
+- Evaluate fairness using metrics such as:
+  - Disparate Impact (DI)
+  - Statistical Parity Difference (SPD)
+  - Equalized Odds
+- Use fairness libraries such as AIF360 or Fairlearn
+- Compare outcomes across demographic groups including gender and race
+- Identify potential bias in the dataset
+- Interpret the fairness results and provide conclusions
+
+## Files
+- Jupyter Notebook containing the fairness analysis
+- `loan_dataset.xlsx`
